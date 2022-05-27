@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @lianariel99
+- 👀 I’m interested in programming in HTML, CSS, JavaScript and Python
+- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me LIAN.ARIEL99@GMIL.COM
+
+<!---
+lianariel99/lianariel99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
