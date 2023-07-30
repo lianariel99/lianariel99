@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming in HTML, CSS, JavaScript and Python
 - 🌱 I’m currently learning HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me LIAN.ARIEL99@GMIL.COM
+- 📫 How to reach me lian.ariel99@gmail.com
 
 <!---
 lianariel99/lianariel99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
