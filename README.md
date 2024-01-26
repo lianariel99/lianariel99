@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lianariel99
-- 👀 I’m interested in programming in HTML, CSS, JavaScript and Python
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 👀 I’m interested in programming in HTML, CSS, JavaScript, TypeScript, Angular, NestJS and Python
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lian.ariel99@gmail.com
 
