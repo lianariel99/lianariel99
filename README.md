@@ -34,25 +34,27 @@
 
 
 
-
-## Connect with me  
+---
+<p align="center">
+ Connect with me
+</p>
 <div align="center">
- <a href="mailto:lian.ariel99@gmail.com">
+ <a href="mailto:lian.ariel99@gmail.com" target="_blank">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </a>
- <a href="[https://www.linkedin.com/in/rub%C3%A9n-a-soler-lopez-5a8486281/](https://www.linkedin.com/in/lian-ariel-cabrera-rodr%C3%ADguez-25521a24b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4T5b89w0RUKJl4lFPQIijQ%3D%3D)" target="_blank">
+ <a href="https://www.linkedin.com/in/lian-ariel-cabrera-rodr%C3%ADguez-25521a24b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4T5b89w0RUKJl4lFPQIijQ%3D%3D" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
  </a>
  <a href="https://github.com/lianariel99" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
  </a>
- <a href="[https://www.instagram.com/rube_sl/](https://www.instagram.com/lian.ariel99/)" target="_blank">
+ <a href="https://www.instagram.com/lian.ariel99/" target="_blank">
   <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
  </a>
  <a href="https://www.facebook.com/lianariel99" target="_blank">
   <img src=https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white alt=instagram style="margin-bottom: 5px;" />
  </a>
-  <a href="https://join.skype.com/invite/fA1piyjjaORz">
+  <a href="https://join.skype.com/invite/fA1piyjjaORz" target="_blank"> 
     <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white"/>
     <a/>
 </div>
