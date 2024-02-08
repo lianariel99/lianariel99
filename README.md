@@ -27,7 +27,10 @@
 </p> 
 
 
- <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lianariel99&layout=compact&langs_count=6)-->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lianariel99&layout=compact&langs_count=6" />
+</p>
 
 
  <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SheilaFundora&hide=contribs,prs) -->
