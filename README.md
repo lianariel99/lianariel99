@@ -57,9 +57,9 @@
  <a href="https://www.facebook.com/lianariel99" target="_blank">
   <img src=https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white alt=instagram style="margin-bottom: 5px;" />
  </a>-->
-  <a href="https://join.skype.com/invite/fA1piyjjaORz" target="_blank"> 
+   <!--<a href="https://join.skype.com/invite/fA1piyjjaORz" target="_blank"> 
     <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white"/>
-    <a/>
+    <a/>-->
 </div>
 
 <br/>
