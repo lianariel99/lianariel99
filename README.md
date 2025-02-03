@@ -42,7 +42,7 @@ Ingeniero en Ciencias Informáticas, graduado en la Universidad de las Ciencias 
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
 </div>
 
-## Comunicate conmigo mediante
+## Comunícate conmigo mediante
 
 <br clear="both">
 
